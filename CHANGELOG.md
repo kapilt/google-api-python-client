@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.13.0](https://www.github.com/googleapis/google-api-python-client/compare/v1.12.8...v1.13.0) (2020-11-28)
+
+
+### Features
+
+* Update synth.py to copy discovery files from discovery-artifact-manager ([#1104](https://www.github.com/googleapis/google-api-python-client/issues/1104)) ([af918e8](https://www.github.com/googleapis/google-api-python-client/commit/af918e8ef422438aaca0c468de8b3b2c184d884e)), closes [#1103](https://www.github.com/googleapis/google-api-python-client/issues/1103)
+
+
+### Documentation
+
+* fix MediaIoBaseUpload broken link ([#1112](https://www.github.com/googleapis/google-api-python-client/issues/1112)) ([334b6e6](https://www.github.com/googleapis/google-api-python-client/commit/334b6e6d9e4924398e57bad2e53747584abf8cf4))
+* fix typo in thread safety example code ([#1100](https://www.github.com/googleapis/google-api-python-client/issues/1100)) ([5ae088d](https://www.github.com/googleapis/google-api-python-client/commit/5ae088dc027b89517b896a89a0aeb2ca80f492cf))
+* update docs/dyn ([#1096](https://www.github.com/googleapis/google-api-python-client/issues/1096)) ([c2228be](https://www.github.com/googleapis/google-api-python-client/commit/c2228be4630e279e02a25b51566a0f93b67aa499))
+
 ### [1.12.8](https://www.github.com/googleapis/google-api-python-client/compare/v1.12.7...v1.12.8) (2020-11-18)
 
 
